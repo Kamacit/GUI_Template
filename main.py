@@ -2,9 +2,9 @@ import tkinter as tk
 from tkinter import font as tkfont
 from tkinter import filedialog
 from Startpage.Page0 import StartPage
-from Seite1.Page1 import PageOne
-from Seite2.Page2 import PageTwo
-from Seite3.Page3 import PageThree
+from Site1.Page1 import PageOne
+from Site2.Page2 import PageTwo
+from Site3.Page3 import PageThree
 
 class KamacitApps(tk.Tk):
 
